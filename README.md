@@ -1,5 +1,5 @@
-Run project:
-npm install
+Run project:<br>
+npm install<br>
 npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
