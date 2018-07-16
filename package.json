@@ -1,0 +1,25 @@
+{
+  "name": "firebase-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-final-form-html5-validation": "^1.0.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "final-form": "^4.6.1",
+    "firebase": "^4.13.1",
+    "react-final-form": "^3.4.0",
+    "styled-components": "^3.2.6"
+  }
+}
